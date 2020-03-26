@@ -1,0 +1,18 @@
+{
+  "name": "covid19_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bson": "^1.1.4",
+    "express": "^4.17.1",
+    "hbs": "^4.1.0",
+    "nodemon": "^2.0.2",
+    "unirest": "^0.6.0"
+  }
+}
